@@ -92,6 +92,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/lib/libdss.so:system/lib/libdss.so \
     vendor/lge/gee/proprietary/lib/libdsucsd.so:system/lib/libdsucsd.so \
     vendor/lge/gee/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
+    vendor/lge/gee/proprietary/lib/libDxHdcp.so:system/lib/libDxHdcp.so \
     vendor/lge/gee/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/lge/gee/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
     vendor/lge/gee/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
